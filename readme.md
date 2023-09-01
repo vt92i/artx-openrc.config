@@ -1,0 +1,2 @@
+##  artix-openrc config
+welcome.
