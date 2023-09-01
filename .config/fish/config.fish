@@ -30,3 +30,6 @@ zoxide init fish | source
 
 # starship
 starship init fish | source
+
+# fortune + cowsay + lolcat
+fortune -s | cowsay -n | lolcat
