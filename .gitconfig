@@ -16,6 +16,7 @@
 	directory = /opt/flutter
 [core]
     pager = delta
+	editor = nvim
 
 [interactive]
     diffFilter = delta --color-only
